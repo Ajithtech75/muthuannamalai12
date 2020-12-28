@@ -7,7 +7,7 @@
   <img align="left" alt="Muthu Annamalai's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/muthuannamalai12/">
-  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 <!--
 **muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
