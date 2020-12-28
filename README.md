@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/hello.gif" alt="hello" /> </p>
 
 <!--
 **muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
