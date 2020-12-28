@@ -25,7 +25,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 - 🥅  Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cricket and I am a die hard fan of it.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" alt="codegif" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" width="500" height="320" /> </p>
 
 
 
@@ -37,6 +37,6 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
   <img align="left" alt="Muthu Annamalai's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/muthuannamalai12/">
-  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="500" height="320" />
+  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 
