@@ -37,6 +37,6 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
   <img align="left" alt="Muthu Annamalai's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/muthuannamalai12/">
-  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="500" height="320" />
 </a>
 
