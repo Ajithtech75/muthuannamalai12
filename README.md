@@ -1,10 +1,12 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/hello.gif" alt="hello" /> </p>
+<h1 align="center">Hi 👋, I'm Muthu Annamalai</h1>
+[<img align="left" alt="muthuannamalai_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--
+**muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--
-**muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Here are some ideas to get you started:-->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
