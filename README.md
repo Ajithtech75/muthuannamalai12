@@ -49,10 +49,9 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
   <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 <a href="https://www.facebook.com/muthuAnnamalai32/">
-  <img align="left" alt="Muthu Annamalai's | Facebook" width="22px" src="https://png.pngitem.com/pimgs/s/357-3579914_hd-png-circle-free-high-quality-facebook-logo.png" />
+  <img align="left" alt="Muthu Annamalai's | Facebook" width="22px" src="https://amazingroofwash.com/wp-content/uploads/2018/07/fb-icon-300x300.png" />
 </a>
 
----
 
 ### :zap: Recent Activity
 
@@ -61,6 +60,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 2. 💪 Opened PR on [[#14](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/pull/13) in [SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model)
 3. 🎉 Merged PR [#1](https:github.com/tharunc/Java-/pull/1) in [tharunc/Java-](https://github.com//tharunc/Java-)
 4. 🎉 Merged PR [#2](https://github.com//tharunc/Java-/pull/2) in [tharunc/Java-](https://github.com//tharunc/Java-)
+5. 🎉 Merged Pr[#3](https://github.com//tharunc/Java-/pull/3) in [tharunc/Java-](https://github.com//tharunc/Java-)
 
 <!--END_SECTION:activity-->
 
