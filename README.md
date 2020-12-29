@@ -27,9 +27,13 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 <p align="centre"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" alt="codegif" width="500" height="320" /></p>
 
+---
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31dbzupfn4chqh5oyocz4hhkpkj4)
+
+---
 
 ### Connect with me:
 
