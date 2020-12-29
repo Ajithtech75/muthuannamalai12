@@ -27,7 +27,7 @@ I am currently pursuing my Bachelors of Engineering under the domain of Computer
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default width="350")](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools:
 
