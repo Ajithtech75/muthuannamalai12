@@ -20,7 +20,7 @@ I am currently pursuing my Bachelors of Engineering under the domain of Computer
 
 Being a Sophomore , I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative. I will strive to add maximum value to the people around me - in terms of my eagerness to learn, dedication and strong work ethic - to ensure a mutually beneficial professional partnership
 
- <img align="right" alt="GIF" src="https://github.com/muthuannamalai12/muthuannamalai12//master/assets/code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" width="500" height="320" />
   
 
 - 🌱 I’m currently learning everything 🤣
@@ -61,6 +61,9 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 3. 🎉 Merged PR [#1](https:github.com/tharunc/Java-/pull/1) in [tharunc/Java-](https://github.com//tharunc/Java-)
 4. 🎉 Merged PR [#2](https://github.com//tharunc/Java-/pull/2) in [tharunc/Java-](https://github.com//tharunc/Java-)
 5. 🎉 Merged Pr[#3](https://github.com//tharunc/Java-/pull/3) in [tharunc/Java-](https://github.com//tharunc/Java-)
+6. 💪 Opened Issue [#1725](https://github.com/TesseractCoding/NeoAlgo/issues/1725) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+7. 🗣 Commented on [#1723](https://github.com/TesseractCoding/NeoAlgo/issues/1723) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+8. 🗣 Commented on [#1673](https://github.com/TesseractCoding/NeoAlgo/issues/1673) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 
 <!--END_SECTION:activity-->
 
@@ -71,6 +74,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muthuannamalai12&show_icons=true&theme=gotham" alt="Muthu Annamalai" />
   
-  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+ <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
   
 
