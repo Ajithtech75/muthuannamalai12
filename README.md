@@ -27,6 +27,10 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 - 🥅  Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cricket and I am a die hard fan of it.
 
+### Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 
 
