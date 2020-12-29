@@ -66,13 +66,12 @@ src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" wi
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#35323](https://github.com/firstcontributions/first-contributions/pull/35323) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 💪 Opened PR on [[#14](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/pull/13) in [SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model)
+2. 🎉  Merged PR on [[#13](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/pull/13) in [SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model](https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model)
 3. 🎉 Merged PR [#1](https:github.com/tharunc/Java-/pull/1) in [tharunc/Java-](https://github.com//tharunc/Java-)
 4. 🎉 Merged PR [#2](https://github.com//tharunc/Java-/pull/2) in [tharunc/Java-](https://github.com//tharunc/Java-)
 5. 🎉 Merged Pr[#3](https://github.com//tharunc/Java-/pull/3) in [tharunc/Java-](https://github.com//tharunc/Java-)
 6. 💪 Opened Issue [#1725](https://github.com/TesseractCoding/NeoAlgo/issues/1725) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-7. 🗣 Commented on [#1723](https://github.com/TesseractCoding/NeoAlgo/issues/1723) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-8. 🗣 Commented on [#1673](https://github.com/TesseractCoding/NeoAlgo/issues/1673) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+7. 🗣 Commented on [#1673](https://github.com/TesseractCoding/NeoAlgo/issues/1673) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 
 <!--END_SECTION:activity-->
 
