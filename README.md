@@ -20,6 +20,8 @@ I am currently pursuing my Bachelors of Engineering under the domain of Computer
 
 Being a Sophomore , I am still learning and therefore need an opportunity to know more about the industry. Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative. I will strive to add maximum value to the people around me - in terms of my eagerness to learn, dedication and strong work ethic - to ensure a mutually beneficial professional partnership. 
 
+  <img align="right" alt="GIF"  src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" width="500" height="320" />
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  Goals: Contribute more to Open Source projects
