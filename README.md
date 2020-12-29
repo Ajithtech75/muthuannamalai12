@@ -56,7 +56,8 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 ### Languages and Tools:
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/><img
+src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" width="50" height="50"/>
 
 ---
 
@@ -81,7 +82,5 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muthuannamalai12&theme=flag-india&show_icons=true)
   
- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-  
+
 
