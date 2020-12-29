@@ -79,7 +79,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 📈 My GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muthuannamalai12&theme=flag-india_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muthuannamalai12?theme=flag-india_icons=true)
   
  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
  <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
