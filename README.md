@@ -52,16 +52,18 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
   <img align="left" alt="Muthu Annamalai's | Facebook" width="22px" src="https://png.pngitem.com/pimgs/s/357-3579914_hd-png-circle-free-high-quality-facebook-logo.png" />
 </a>
 
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-
 1. 🎉 Merged PR [#35323][https://github.com/firstcontributions/first-contributions/pull/35323] in [firstcontributions/first-contributions][https://github.com/firstcontributions/first-contributions]
 3. 💪 Opened PR [#14][https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model/pull/13] in [SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model][https://github.com/SanjayMarreddi/Facial-Expression-Recognition-Classifier-Model]
 4. 🎉 Merged PR [#1][https://github.com/tharunc/Java-/pull/1] in [tharunc/Java-][https://github.com/tharunc/Java-]
 5.🎉 Merged PR [#2][https://github.com/tharunc/Java-/pull/2] in [tharunc/Java-][https://github.com/tharunc/Java-]
-
 <!--END_SECTION:activity-->
+
+</details>
+
 
 📈 My GitHub Stats
 
