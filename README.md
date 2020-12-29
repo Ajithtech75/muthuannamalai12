@@ -18,7 +18,8 @@ Here are some ideas to get you started:-->
 ## Who Am I?
 I am currently pursuing my Bachelors of Engineering under the domain of Computer Science Engineering. I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
 
-  <img align="right" alt="GIF"  src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" width="500" height="320" />
+Being a Sophomore , I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative. I will strive to add maximum value to the people around me - in terms of my eagerness to learn, dedication and strong work ethic - to ensure a mutually beneficial professional partnership
+  
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -27,7 +28,7 @@ I am currently pursuing my Bachelors of Engineering under the domain of Computer
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default" width="350" />](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools:
 
