@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 ## Who Am I?
-I am currently pursuing my Bachelors of Engineering under the domain of Computer Science Engineering.I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
+I am currently pursuing my Bachelors of Engineering under the domain of Computer Science Engineering. I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
 
   <img align="right" alt="GIF"  src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" width="500" height="320" />
 
@@ -24,6 +24,10 @@ I am currently pursuing my Bachelors of Engineering under the domain of Computer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cricket and I am a die hard fan of it.
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools:
 
