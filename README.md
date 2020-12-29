@@ -32,11 +32,6 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31dbzupfn4chqh5oyocz4hhkpkj4)
 
-
-### Languages and Tools:
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
-
 ### Connect with me:
 
 <a href="https://twitter.com/muthuannamalai_">
@@ -49,9 +44,19 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
   <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 <a href="https://www.facebook.com/muthuAnnamalai32/">
-  <img align="left" alt="Muthu Annamalai's | Facebook" width="22px" src="https://amazingroofwash.com/wp-content/uploads/2018/07/fb-icon-300x300.png" />
+  <img align="left" alt="Muthu Annamalai's | Facebook" width="22px" src="https://www.nicepng.com/png/full/448-4482584_fb-icon-facebook-icon.png" />
 </a>
 
+<br />
+
+### Languages and Tools:
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+
+<br />
+<br />
+
+---
 
 ### :zap: Recent Activity
 
@@ -67,7 +72,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 <!--END_SECTION:activity-->
 
-
+---
 
 
 📈 My GitHub Stats
