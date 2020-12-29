@@ -26,10 +26,6 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 - 🥅  Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cricket and I am a die hard fan of it.
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31dbzupfn4chqh5oyocz4hhkpkj4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default" alt="Muthu Annamalai Spotify Playing" width="350" />]
-(https://open.spotify.com/user/31dbzupfn4chqh5oyocz4hhkpkj4)
 
 ### Languages and Tools:
 
