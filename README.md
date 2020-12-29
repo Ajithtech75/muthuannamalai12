@@ -28,7 +28,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31dbzupfn4chqh5oyocz4hhkpkj4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31dbzupfn4chqh5oyocz4hhkpkj4&cover_image=true&theme=default)]]
 
 ### Languages and Tools:
 
